@@ -1,4 +1,4 @@
-# nixx14
+# Face Recognition
 Face recognition
 In Face Verification, we are given two images and we have to determine if they are of the same person. The simplest way to do this is to compare the two images pixel-by-pixel. If the distance between the raw images are less than a chosen threshold, it may be the same person!
 
